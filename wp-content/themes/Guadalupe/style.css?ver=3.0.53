@@ -1,0 +1,20 @@
+/*
+ Theme Name:   Guadalupe
+ Theme URI:    http://www.easyais.com/wp-content/themes/Divi-child/
+ Description:  Divi Child Theme
+ Author:       William Bastidas
+ Author URI:   http://easyais.com
+ Template:     Divi
+ Version:      1.0.0
+ Text Domain:  divi-child
+*/
+
+@import url("../Divi/style.css");
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+
+
+
+
